@@ -70,6 +70,35 @@ pokes = {
  +-------+ """,
             "esc": None}],
     },
+
+    "PUCHOV": {
+        "name": "pohlavny ud chovatela oviec",
+        "hp": 50,
+        "atc": 8,
+        "defense": 4,
+        "attacks": ["cmulanie"],
+        "pool": [],
+        "miss_chance": 10,
+        "desc": "A fallen hero's nemesis.",
+        "lose_xp": 3,
+        "rarity": 7,
+        "types": ["stone", "plant"],
+        "evolve_poke": "",
+        "evolve_lvl": 0,
+        "initiative": 5,
+        "ico": [{
+            "txt": r"""  +-------+
+|  o o  |
+|   ^   |
+|  ---  |
+| O   O |
+|  | |  |
+|  | |  |
+|  | |  |
+|  \_/  |
++-------+""",
+            "esc": None}],
+    },
     "mowcow": {
         "name": "Mowcow",
         "hp": 20,
